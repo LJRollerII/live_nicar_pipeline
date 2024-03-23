@@ -1,17 +1,17 @@
 complaint_type,count
-['Air'],208
-['Odor'],144
+['Air'],209
+['Odor'],153
 ['Other'],119
-['Fugitive Dust/Particulate Matter'],36
-['Smoke'],29
+['Fugitive Dust/Particulate Matter'],38
+['Smoke'],30
 "['Air', ' Fumes', ' Odor']",21
 ['Open Burning'],14
 "['Air', ' Odor']",11
 ['Fumes'],11
 "['Open Burning', ' Smoke']",7
+"['Air', ' Other']",4
 "['Air', ' Fugitive Dust/Particulate Matter']",4
 "['Air', ' Odor', ' Smoke']",4
-"['Air', ' Other']",4
 "['Air', ' Fumes', ' Smoke']",3
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
 "['Air', ' Open Burning']",3
