@@ -1,6 +1,6 @@
 complaint_type,count
-['Air'],214
-['Odor'],157
+['Air'],218
+['Odor'],158
 ['Other'],122
 ['Fugitive Dust/Particulate Matter'],39
 ['Smoke'],30
@@ -16,10 +16,10 @@ complaint_type,count
 "['Air', ' Fumes', ' Smoke']",3
 "['Odor', ' Open Burning', ' Smoke']",3
 "['Air', ' Open Burning']",3
+['Air Pollutant Release'],2
 ['Asbestos Complaint'],2
 ['Non-Tidal Wetlands/Waterway'],2
 ['Noise Complaint'],2
-['Air Pollutant Release'],2
 "['Air', ' Fumes', ' Odor', ' Smoke']",2
 "['Air', ' Open Burning', ' Smoke']",2
 "['Odor', ' Smoke']",2
