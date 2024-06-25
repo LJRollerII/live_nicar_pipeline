@@ -9,37 +9,38 @@ complaint_type,count
 "['Air', ' Odor']",14
 ['Fumes'],12
 "['Open Burning', ' Smoke']",7
-"['Odor', ' Smoke']",5
 "['Air', ' Fugitive Dust/Particulate Matter']",5
+"['Odor', ' Smoke']",5
 "['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Other']",4
 "['Air', ' Odor', ' Smoke']",4
-"['Air', ' Fumes', ' Smoke']",3
 "['Air', ' Open Burning']",3
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
+"['Air', ' Fumes', ' Smoke']",3
 "['Air', ' Open Burning', ' Smoke']",3
 ['Asbestos Complaint'],3
 ['Noise Complaint'],3
-['Air Pollutant Release'],2
-['Non-Tidal Wetlands/Waterway'],2
-"['Air', ' Smoke']",2
-"['Air', ' Odor', ' Open Burning']",2
 "['Air', ' Fumes', ' Odor', ' Smoke']",2
-"['Air', ' Air Pollutant Release']",1
-"['Fumes', ' Smoke']",1
-"['Fumes', ' Open Burning', ' Smoke']",1
-"['Air', ' Fumes', ' Other']",1
-['Water Pollutant Release'],1
+"['Air', ' Odor', ' Open Burning']",2
+"['Air', ' Smoke']",2
+['Non-Tidal Wetlands/Waterway'],2
+['Air Pollutant Release'],2
+"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
 "['Fumes', ' Odor', ' Smoke']",1
+"['Air', ' Fumes', ' Other']",1
+"['Fumes', ' Open Burning', ' Smoke']",1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",1
 ['ARA AQCP non-regulated entity'],1
+"['Fumes', ' Smoke']",1
 "['Air', ' Asbestos Complaint']",1
-"['Fugitive Dust/Particulate Matter', ' Odor']",1
-"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
+"['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
 "['Air', ' Odor', ' Open Burning', ' Smoke']",1
-['Possible Permit Violation'],1
-['Suspected Operation without Permit'],1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",1
 "['Air', ' Fumes']",1
+"['Air', ' Air Pollutant Release']",1
 "['Air', ' Smoke', ' Vapor Release']",1
+['Suspected Operation without Permit'],1
+['Possible Permit Violation'],1
+['Water Pollutant Release'],1
+"['Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Fumes', ' Odor', ' Open Burning']",1
