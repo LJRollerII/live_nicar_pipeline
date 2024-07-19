@@ -9,40 +9,40 @@ complaint_type,count
 "['Air', ' Odor']",15
 ['Fumes'],12
 "['Open Burning', ' Smoke']",7
+"['Air', ' Fugitive Dust/Particulate Matter']",6
 "['Air', ' Other']",5
-"['Air', ' Fugitive Dust/Particulate Matter']",5
 "['Odor', ' Smoke']",5
 "['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Odor', ' Smoke']",4
-"['Air', ' Fumes', ' Smoke']",3
 ['Noise Complaint'],3
-['Asbestos Complaint'],3
+"['Air', ' Fumes', ' Smoke']",3
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
-"['Air', ' Open Burning', ' Smoke']",3
+['Asbestos Complaint'],3
 "['Air', ' Open Burning']",3
-['ARA AQCP non-regulated entity'],2
+"['Air', ' Open Burning', ' Smoke']",3
 ['Non-Tidal Wetlands/Waterway'],2
 ['Air Pollutant Release'],2
+['ARA AQCP non-regulated entity'],2
 "['Air', ' Smoke']",2
-"['Air', ' Fumes', ' Odor', ' Smoke']",2
 "['Air', ' Odor', ' Open Burning']",2
+"['Air', ' Fumes', ' Odor', ' Smoke']",2
 "['Air', ' Smoke', ' Vapor Release']",1
+"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
 "['Fumes', ' Smoke']",1
 "['Fumes', ' Open Burning', ' Smoke']",1
 "['Air', ' Fumes', ' Other']",1
-['Water Pollutant Release'],1
+"['Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Fumes', ' Odor', ' Smoke']",1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",1
+"['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
 "['Air', ' Asbestos Complaint']",1
-"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
 "['Air', ' Odor', ' Open Burning', ' Smoke']",1
+"['Noise Complaint', ' Other']",1
+['Water Pollutant Release'],1
+"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",1
+"['Air', ' Fumes']",1
 ['Possible Permit Violation'],1
 ['Suspected Operation without Permit'],1
-"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",1
-"['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
-"['Air', ' Fumes']",1
-"['Noise Complaint', ' Other']",1
-"['Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Air', ' Air Pollutant Release']",1
 ['Abandoned Drums/Tanks'],1
 "['Fumes', ' Odor', ' Open Burning']",1
