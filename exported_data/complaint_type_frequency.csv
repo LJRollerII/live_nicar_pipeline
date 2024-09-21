@@ -1,21 +1,21 @@
 complaint_type,count
 ['Air'],284
-['Odor'],200
-['Other'],170
-['Fugitive Dust/Particulate Matter'],57
+['Odor'],201
+['Other'],171
+['Fugitive Dust/Particulate Matter'],58
 ['Smoke'],35
 "['Air', ' Fumes', ' Odor']",21
+['Open Burning'],18
 "['Air', ' Odor']",17
-['Open Burning'],17
 ['Fumes'],12
 "['Open Burning', ' Smoke']",7
-"['Air', ' Other']",6
 "['Air', ' Fugitive Dust/Particulate Matter']",6
+"['Air', ' Other']",6
 "['Odor', ' Smoke']",5
-"['Air', ' Open Burning', ' Smoke']",4
 ['Asbestos Complaint'],4
 "['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Odor', ' Smoke']",4
+"['Air', ' Open Burning', ' Smoke']",4
 ['Noise Complaint'],3
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
 "['Air', ' Fumes', ' Smoke']",3
