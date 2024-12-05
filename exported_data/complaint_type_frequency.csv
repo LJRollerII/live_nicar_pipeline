@@ -1,5 +1,5 @@
 complaint_type,count
-['Air'],310
+['Air'],311
 ['Odor'],223
 ['Other'],183
 ['Fugitive Dust/Particulate Matter'],65
@@ -7,8 +7,8 @@ complaint_type,count
 "['Air', ' Fumes', ' Odor']",21
 ['Open Burning'],19
 "['Air', ' Odor']",17
+"['Air', ' Fugitive Dust/Particulate Matter']",13
 ['Fumes'],12
-"['Air', ' Fugitive Dust/Particulate Matter']",11
 "['Air', ' Other']",8
 "['Open Burning', ' Smoke']",7
 "['Odor', ' Smoke']",5
