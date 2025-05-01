@@ -3,11 +3,11 @@ complaint_type,count
 ['Odor'],280
 ['Other'],206
 ['Fugitive Dust/Particulate Matter'],78
-['Smoke'],42
+['Smoke'],43
 ['Open Burning'],24
 "['Air', ' Fumes', ' Odor']",24
-"['Air', ' Odor']",17
 ['ARA AQCP non-regulated entity'],17
+"['Air', ' Odor']",17
 "['Air', ' Fugitive Dust/Particulate Matter']",14
 ['Fumes'],12
 "['Odor', ' Smoke']",9
