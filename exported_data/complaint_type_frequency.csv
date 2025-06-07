@@ -1,5 +1,5 @@
 complaint_type,count
-['Air'],432
+['Air'],433
 ['Odor'],299
 ['Other'],210
 ['Fugitive Dust/Particulate Matter'],79
@@ -11,34 +11,35 @@ complaint_type,count
 "['Air', ' Fugitive Dust/Particulate Matter']",16
 ['Fumes'],13
 "['Odor', ' Smoke']",10
-"['Air', ' Other']",9
 "['Open Burning', ' Smoke']",9
+"['Air', ' Other']",9
 ['Noise Complaint'],7
 "['Air', ' Odor', ' Smoke']",6
-['Asbestos Complaint'],4
-"['Air', ' Open Burning', ' Smoke']",4
 "['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Open Burning']",4
+"['Air', ' Open Burning', ' Smoke']",4
+['Asbestos Complaint'],4
 "['Air', ' Fumes', ' Smoke']",3
-"['Fugitive Dust/Particulate Matter', ' Smoke']",3
-"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",3
 ['Air Pollutant Release'],3
+"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",3
+"['Fugitive Dust/Particulate Matter', ' Smoke']",3
 ['Non-Tidal Wetlands/Waterway'],2
 "['Air', ' Odor', ' Open Burning', ' Smoke']",2
 "['Air', ' Smoke']",2
-"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",2
 "['Air', ' Fumes', ' Odor', ' Smoke']",2
+"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",2
 "['Air', ' Odor', ' Open Burning']",2
-"['Air', ' Asbestos Complaint']",1
-"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
-['Suspected Operation without Permit'],1
-"['Fumes', ' Odor', ' Smoke']",1
-"['Air', ' Fumes', ' Other']",1
-"['Air', ' Fumes']",1
-"['Fumes', ' Open Burning', ' Smoke']",1
 "['Air', ' Air Pollutant Release']",1
-"['Fumes', ' Smoke']",1
 "['Air', ' Smoke', ' Vapor Release']",1
+"['Air', ' Fugitive Dust/Particulate Matter', ' Suspected Operation without Permit']",1
+"['Air', ' Fumes']",1
+"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
+"['Air', ' Asbestos Complaint']",1
+['Suspected Operation without Permit'],1
+"['Air', ' Fumes', ' Other']",1
+"['Fumes', ' Open Burning', ' Smoke']",1
+"['Fumes', ' Smoke']",1
+"['Fumes', ' Odor', ' Smoke']",1
 ['Oil Release/Spill (Surface)'],1
 ['Possible Permit Violation'],1
 ['Water Pollutant Release'],1
