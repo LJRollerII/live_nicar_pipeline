@@ -1,30 +1,30 @@
 complaint_type,count
 ['Air'],458
 ['Odor'],315
-['Other'],220
+['Other'],222
 ['Fugitive Dust/Particulate Matter'],84
 ['Smoke'],46
 ['ARA AQCP non-regulated entity'],25
-"['Air', ' Fumes', ' Odor']",24
 ['Open Burning'],24
+"['Air', ' Fumes', ' Odor']",24
 "['Air', ' Odor']",19
 "['Air', ' Fugitive Dust/Particulate Matter']",18
 ['Fumes'],14
 "['Odor', ' Smoke']",11
 "['Open Burning', ' Smoke']",9
 "['Air', ' Other']",9
-['Noise Complaint'],7
 "['Air', ' Odor', ' Smoke']",7
+['Noise Complaint'],7
 "['Air', ' Open Burning', ' Smoke']",5
 "['Air', ' Fumes', ' Smoke']",4
-"['Air', ' Open Burning']",4
-"['Odor', ' Open Burning', ' Smoke']",4
-['Asbestos Complaint'],4
 "['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
-"['Air', ' Fumes', ' Odor', ' Smoke']",3
+"['Odor', ' Open Burning', ' Smoke']",4
+"['Air', ' Open Burning']",4
+['Asbestos Complaint'],4
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
-['Air Pollutant Release'],3
+"['Air', ' Fumes', ' Odor', ' Smoke']",3
 ['Non-Tidal Wetlands/Waterway'],3
+['Air Pollutant Release'],3
 "['Air', ' Odor', ' Open Burning', ' Smoke']",2
 "['Air', ' Smoke']",2
 "['Air', ' Odor', ' Open Burning']",2
@@ -35,24 +35,24 @@ complaint_type,count
 "['Air', ' Asbestos Complaint']",1
 "['Fumes', ' Odor', ' Smoke']",1
 "['Air', ' Air Pollutant Release']",1
-"['Air', ' Fumes', ' Other']",1
 "['Air', ' Smoke', ' Vapor Release']",1
 ['Suspected Operation without Permit'],1
 ['Possible Permit Violation'],1
+"['Air', ' Fumes', ' Other']",1
 "['Fumes', ' Open Burning', ' Smoke']",1
 "['Fumes', ' Smoke']",1
 ['Water Pollutant Release'],1
 "['Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Fumes', ' Noise Complaint']",1
 "['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
-"['Agricultural', ' Air']",1
+"['Air Pollutant Release', ' Odor', ' Smoke']",1
+"['Air Pollutant Release', ' Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Air', ' Air Pollutant Release', ' Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Odor', ' Open Burning']",1
 "['Air', ' Other', ' Unknown Substance']",1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Suspected Operation without Permit']",1
 "['Fumes', ' Possible Permit Violation']",1
-"['Air Pollutant Release', ' Odor', ' Smoke']",1
-"['Air Pollutant Release', ' Fugitive Dust/Particulate Matter', ' Odor']",1
+"['Agricultural', ' Air']",1
 "['Noise Complaint', ' Other']",1
 ['Coal Mining'],1
 "['Air', ' Asbestos Complaint', ' Fugitive Dust/Particulate Matter']",1
