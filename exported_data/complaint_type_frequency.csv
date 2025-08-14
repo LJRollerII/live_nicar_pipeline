@@ -1,21 +1,21 @@
 complaint_type,count
-['Air'],458
-['Odor'],315
+['Air'],459
+['Odor'],316
 ['Other'],222
 ['Fugitive Dust/Particulate Matter'],84
 ['Smoke'],46
 ['ARA AQCP non-regulated entity'],25
-['Open Burning'],24
 "['Air', ' Fumes', ' Odor']",24
+['Open Burning'],24
 "['Air', ' Odor']",20
 "['Air', ' Fugitive Dust/Particulate Matter']",18
 ['Fumes'],14
 "['Odor', ' Smoke']",11
-"['Open Burning', ' Smoke']",9
 "['Air', ' Other']",9
+"['Open Burning', ' Smoke']",9
 "['Air', ' Odor', ' Smoke']",7
 ['Noise Complaint'],7
-"['Air', ' Open Burning', ' Smoke']",5
+"['Air', ' Open Burning', ' Smoke']",6
 "['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Fumes', ' Smoke']",4
 "['Air', ' Open Burning']",4
