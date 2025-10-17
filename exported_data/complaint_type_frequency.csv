@@ -1,10 +1,10 @@
 complaint_type,count
-['Air'],502
+['Air'],503
 ['Odor'],332
 ['Other'],234
 ['Fugitive Dust/Particulate Matter'],85
 ['Smoke'],46
-['ARA AQCP non-regulated entity'],28
+['ARA AQCP non-regulated entity'],30
 ['Open Burning'],25
 "['Air', ' Fumes', ' Odor']",24
 "['Air', ' Odor']",23
@@ -17,32 +17,33 @@ complaint_type,count
 ['Noise Complaint'],7
 "['Air', ' Open Burning']",6
 "['Air', ' Open Burning', ' Smoke']",6
-"['Odor', ' Open Burning', ' Smoke']",4
 "['Air', ' Fumes', ' Smoke']",4
 "['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
+"['Odor', ' Open Burning', ' Smoke']",4
 ['Asbestos Complaint'],4
+"['Fugitive Dust/Particulate Matter', ' Smoke']",3
 ['Non-Tidal Wetlands/Waterway'],3
 "['Air', ' Fumes', ' Odor', ' Smoke']",3
-"['Air', ' Smoke']",3
 ['Air Pollutant Release'],3
-"['Fugitive Dust/Particulate Matter', ' Smoke']",3
+"['Air', ' Smoke']",3
 "['Air', ' Odor', ' Open Burning']",2
-"['Air', ' Odor', ' Open Burning', ' Smoke']",2
-"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",2
-"['Air', ' Fumes']",2
 "['Air', ' Fugitive Dust/Particulate Matter', ' Other']",2
+"['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",2
 "['Odor', ' Open Burning']",2
+"['Air', ' Odor', ' Open Burning', ' Smoke']",2
+"['Air', ' Fumes']",2
+['Water Pollutant Release'],1
+"['Fugitive Dust/Particulate Matter', ' Odor']",1
+['Possible Permit Violation'],1
+['Suspected Operation without Permit'],1
+"['Air', ' Equipment Malfunction', ' Other']",1
+"['Air', ' Smoke', ' Vapor Release']",1
+"['Air', ' Air Pollutant Release']",1
 "['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
 "['Noise Complaint', ' Other']",1
 "['Air', ' Asbestos Complaint']",1
-"['Air', ' Air Pollutant Release']",1
-"['Air', ' Smoke', ' Vapor Release']",1
-['Suspected Operation without Permit'],1
 "['Fumes', ' Odor', ' Smoke']",1
-['Possible Permit Violation'],1
 "['Air', ' Fumes', ' Other']",1
-['Water Pollutant Release'],1
-"['Fugitive Dust/Particulate Matter', ' Odor']",1
 "['Fumes', ' Open Burning', ' Smoke']",1
 "['Fumes', ' Smoke']",1
 "['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
