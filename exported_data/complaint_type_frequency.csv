@@ -3,7 +3,7 @@ complaint_type,count
 ['Odor'],339
 ['Other'],239
 ['Fugitive Dust/Particulate Matter'],98
-['Smoke'],46
+['Smoke'],47
 ['ARA AQCP non-regulated entity'],33
 ['Open Burning'],25
 "['Air', ' Fumes', ' Odor']",24
@@ -18,34 +18,34 @@ complaint_type,count
 "['Air', ' Open Burning']",6
 "['Air', ' Open Burning', ' Smoke']",6
 "['Odor', ' Open Burning', ' Smoke']",4
+"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
 "['Air', ' Fumes', ' Smoke']",4
 ['Asbestos Complaint'],4
-"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
-"['Air', ' Fumes', ' Odor', ' Smoke']",3
-['Non-Tidal Wetlands/Waterway'],3
-"['Fugitive Dust/Particulate Matter', ' Smoke']",3
-"['Air', ' Smoke']",3
 ['Air Pollutant Release'],3
+['Non-Tidal Wetlands/Waterway'],3
+"['Air', ' Fumes', ' Odor', ' Smoke']",3
+"['Air', ' Smoke']",3
+"['Fugitive Dust/Particulate Matter', ' Smoke']",3
 "['Air', ' Fumes']",2
-"['Air', ' Fugitive Dust/Particulate Matter', ' Other']",2
 "['Air', ' Odor', ' Open Burning', ' Smoke']",2
+"['Air', ' Fugitive Dust/Particulate Matter', ' Other']",2
 "['Air', ' Fugitive Dust/Particulate Matter', ' Smoke']",2
 "['Odor', ' Open Burning']",2
 "['Air', ' Odor', ' Open Burning']",2
+"['Air', ' Asbestos Complaint']",1
 "['Groundwater Contamination', ' Oil Release/Spill (Surface)', ' Open Burning', ' Other']",1
-['Possible Permit Violation'],1
 "['Fumes', ' Smoke']",1
 "['Fugitive Dust/Particulate Matter', ' Odor']",1
 ['Water Pollutant Release'],1
-"['Air', ' Asbestos Complaint']",1
+"['Air', ' Fumes', ' Other']",1
+['Possible Permit Violation'],1
 ['Suspected Operation without Permit'],1
 "['Air', ' Smoke', ' Vapor Release']",1
 "['Fumes', ' Open Burning', ' Smoke']",1
-"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
+"['Noise Complaint', ' Other']",1
 "['Air', ' Air Pollutant Release']",1
 "['Fumes', ' Odor', ' Smoke']",1
-"['Noise Complaint', ' Other']",1
-"['Air', ' Fumes', ' Other']",1
+"['Air', ' Fugitive Dust/Particulate Matter', ' Other', ' Suspected Operation without Permit']",1
 "['Fumes', ' Possible Permit Violation']",1
 ['Abandoned Drums/Tanks'],1
 ['Oil Release/Spill'],1
