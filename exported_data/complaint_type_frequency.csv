@@ -1,10 +1,10 @@
 complaint_type,count
 ['Air'],586
-['Odor'],349
+['Odor'],355
 ['Other'],258
 ['Fugitive Dust/Particulate Matter'],100
 ['Smoke'],50
-['ARA AQCP non-regulated entity'],46
+['ARA AQCP non-regulated entity'],49
 ['Air Pollutant Release'],43
 ['Open Burning'],28
 "['Air', ' Fumes', ' Odor']",25
