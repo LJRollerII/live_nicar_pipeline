@@ -1,6 +1,6 @@
 complaint_type,count
-['Air'],591
-['Odor'],355
+['Air'],592
+['Odor'],356
 ['Other'],258
 ['Fugitive Dust/Particulate Matter'],100
 ['Smoke'],50
@@ -14,18 +14,18 @@ complaint_type,count
 "['Air', ' Other']",14
 "['Odor', ' Smoke']",13
 "['Open Burning', ' Smoke']",11
+['Noise Complaint'],7
 "['Air', ' Odor', ' Smoke']",7
 "['Air', ' Open Burning']",7
-['Noise Complaint'],7
 "['Air', ' Open Burning', ' Smoke']",6
 "['Air', ' Air Pollutant Release']",5
-"['Air', ' Fumes', ' Smoke']",4
-['Suspected Operation without Permit'],4
-"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
 "['Odor', ' Open Burning', ' Smoke']",4
+"['Air', ' Fumes', ' Smoke']",4
+"['Air', ' Fugitive Dust/Particulate Matter', ' Odor']",4
+['Suspected Operation without Permit'],4
 ['Asbestos Complaint'],4
-"['Air', ' Fumes', ' Odor', ' Smoke']",3
 "['Fugitive Dust/Particulate Matter', ' Smoke']",3
+"['Air', ' Fumes', ' Odor', ' Smoke']",3
 ['Non-Tidal Wetlands/Waterway'],3
 "['Air', ' Fugitive Dust/Particulate Matter', ' Other']",3
 "['Air', ' Smoke']",3
